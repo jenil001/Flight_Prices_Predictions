@@ -63,15 +63,13 @@ Here are some key insights discovered during the EDA phase:
 
 * **Price Distribution:** The distribution of flight prices is right-skewed, with most tickets priced in the lower range and a few expensive outliers.
 
-    ![Price Distribution](https://storage.googleapis.com/agent-tools-public-bucket/1_price_distribution.png-808ca773-13c3-4fb2-9e63-f9960ada41a6)
-
-* **Airline vs. Price:** Jet Airways Business class has the highest average prices, while other airlines like SpiceJet and IndiGo are more budget-friendly.
-
-    ![Airline vs Price](https://storage.googleapis.com/agent-tools-public-bucket/image_705e4a.png-f7fe218c-0d61-4392-b464-e601952bb718)
+   <img src="1_price_distribution.png" alt="Price Distribution Histogram" width="600"/>
 
 * **Duration vs. Price:** There is a clear positive correlation between the duration of the flight and its price. Longer flights generally cost more.
 
-    ![Duration vs Price](https://storage.googleapis.com/agent-tools-public-bucket/5_price_vs_duration.png-a5b0f530-0ffc-43cb-8977-3bd2fe5660c1)
+    <img src="5_price_vs_duration.png" alt="Duration vs Price Scatter Plot" width="600"/>
+
+* Remaining Much more in Above Notebooks.
 
 ---
 
